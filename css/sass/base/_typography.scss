@@ -75,6 +75,9 @@ nav,
 output,
 ruby,
 section,
+input,
+textarea,
+select,
 summary,
 time,
 mark,
@@ -90,4 +93,8 @@ video {
 body {
     font-size: clamp(1rem, 1.3vw, 2rem);
     font-family: 'Poppins', sans-serif;
+
+    a:not([class]) {
+        text-decoration-skip-ink: auto;
+    }
 }
