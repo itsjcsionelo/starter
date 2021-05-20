@@ -16,8 +16,8 @@
     <td>✔ Modern CSS Reset</td>
  </tr>
  <tr>
-    <td>✔ FontAwesome</td>
-    <td>✔ CaptainIcons</td>
+    <td>✔ Font Awesome</td>
+    <td>✔ Captain Icons</td>
  </tr>
 </table>
 
