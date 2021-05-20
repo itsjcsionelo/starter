@@ -4,7 +4,7 @@
 
 <table border="0">
  <tr>
-    <td>✔ 7-1 SASS Architecture</td>
+    <td>✔ 7-1 Architecture</td>
     <td>✔ Mixins</td>
  </tr>
  <tr>
