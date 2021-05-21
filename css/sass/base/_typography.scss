@@ -3,7 +3,7 @@ html {
 }
 
 body {
-    line-height: 1.6;
+    line-height: 2;
     font-family: 'Open Sans', sans-serif;
     font-size: clamp(1.6rem, 2.5vmin, 1.8rem);
 
@@ -27,10 +27,6 @@ body {
         font-size: clamp(1.6rem, 2.5vmin, 3.92rem);
     }
 
-    p {
-        line-height: 2;
-    }
-
     div,
     button,
     span,
@@ -38,6 +34,7 @@ body {
     object,
     iframe,
     h6,
+    p,
     blockquote,
     pre,
     a,
