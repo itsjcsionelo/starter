@@ -1,24 +1,9 @@
-///////////////////////////////////////
-//ICONS
-@import url(../../node/captain-icons/dist/captain-icons.css);
-@import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css);
-
-
-///////////////////////////////////////
-//FONTS
-
-@import url(https://fonts.googleapis.com/css?family=Open+Sans:300,300italic,regular,italic,600,600italic,700,700italic,800,800italic);
-@import url(https://fonts.googleapis.com/css?family=Playfair+Display:regular,500,600,700,800,900,italic,500italic,600italic,700italic,800italic,900italic);
-
-
-///////////////////////////////////////
-//ARCHITECTURE
-
 @import './abstracts/variables';
 @import './abstracts/functions';
 @import './abstracts/mixins';
-
 @import './base/reset';
 @import './base/typography';
-
 @import './pages/home';
+
+@include fonts;
+@include icons;
