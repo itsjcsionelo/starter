@@ -2,7 +2,7 @@
 
 #### This repository contains all the files I personally use for starting my project, consists:
 
-<table border="0">
+<table border="0"; width="100%">
  <tr>
     <td>✔ 7-1 Architecture</td>
     <td>✔ Mixins</td>
