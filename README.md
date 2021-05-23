@@ -16,7 +16,7 @@
     <td>✔ Modern CSS Reset</td>
  </tr>
  <tr>
-    <td>✔ Font Awesome</td>
+    ✔ Font Awesome
  </tr>
 </table>
 
