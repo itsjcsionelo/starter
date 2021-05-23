@@ -16,7 +16,7 @@
     <td>✔ Modern CSS Reset</td>
  </tr>
  <tr>
-    <td style="display: block; box-sizing:border-box; clear:both">✔ Icons</td>
+    <td style="display: block; box-sizing:border-box; clear:both;">✔ Icons</td>
  </tr>
 </table>
 
