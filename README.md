@@ -16,7 +16,7 @@
     <td>✔ Modern CSS Reset</td>
  </tr>
  <tr>
-    <td colspan=100%>✔ Icons</td>
+    <td colspan=100% style="text-align: center">✔ Icons</td>
  </tr>
 </table>
 
