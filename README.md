@@ -16,7 +16,7 @@
     <td>✔ Modern CSS Reset</td>
  </tr>
  <tr>
-    ✔ Font Awesome
+    <td style="width: 100%">✔ Icons</td>
  </tr>
 </table>
 
