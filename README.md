@@ -16,7 +16,7 @@
     <td>✔ Modern CSS Reset</td>
  </tr>
  <tr>
-    <td style="width: 100%">✔ Icons</td>
+    <td style="display: block">✔ Icons</td>
  </tr>
 </table>
 
