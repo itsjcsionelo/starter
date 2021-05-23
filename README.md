@@ -17,7 +17,6 @@
  </tr>
  <tr>
     <td>✔ Font Awesome</td>
-    <td>✔ Captain Icons</td>
  </tr>
 </table>
 
